@@ -7,4 +7,5 @@ Python · SQL · Machine Learning · PyTorch · Scikit-learn · FastAPI · Power
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/manuel-marlats/
+
 Mail: manumarlats@gmail.com
